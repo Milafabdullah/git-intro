@@ -1,1 +1,1 @@
-Hello from both branches
+Feature conflict change
